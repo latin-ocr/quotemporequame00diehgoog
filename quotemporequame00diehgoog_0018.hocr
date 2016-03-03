@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quotemporequame00diehgoog_0018.png"; bbox 0 0 2798 4980; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 379 1701 946 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 379 1688 946 1793">
+     <span class='ocr_line' id='line_1_1' title="bbox 379 1701 946 1793; baseline -0.023 0"><span class='ocrx_word' id='word_1_1' title='bbox 379 1701 946 1793; x_wconf 79' lang='lat' dir='ltr'>QUOTEMPORE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 464 1941 856 2012">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 464 1941 856 2012">
+     <span class='ocr_line' id='line_1_2' title="bbox 464 1941 856 2012; baseline -0.01 -7"><span class='ocrx_word' id='word_1_2' title='bbox 464 1943 525 2006; x_wconf 75' lang='lat' dir='ltr'><strong>QUA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 539 1943 642 2012; x_wconf 78' lang='lat' dir='ltr'><strong>MENTE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 657 1943 797 2001; x_wconf 85' lang='lat' dir='ltr'>SCRIPTUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 811 1941 856 2001; x_wconf 83' lang='lat' dir='ltr'><strong>SIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 29 2179 1129 2309">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 29 2179 1129 2351">
+     <span class='ocr_line' id='line_1_3' title="bbox 29 2179 1129 2309; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 29 2248 42 2309; x_wconf 78' lang='lat'><strong>-.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 194 2179 718 2291; x_wconf 76' lang='lat' dir='ltr'><strong>XENOPHONTIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 769 2181 1129 2291; x_wconf 72' lang='lat' dir='ltr'>LlssELLUs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 386 2439 940 2536">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 386 2439 940 2536">
+     <span class='ocr_line' id='line_1_4' title="bbox 386 2439 940 2536; baseline 0.002 -13"><span class='ocrx_word' id='word_1_9' title='bbox 386 2460 464 2536; x_wconf 76' lang='lat' dir='ltr'><strong>Qm</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 491 2439 619 2527; x_wconf 79' lang='lat' dir='ltr'>ss6P01</span> <span class='ocrx_word' id='word_1_11' title='bbox 644 2460 940 2524; x_wconf 73' lang='lat' dir='ltr'>lecfflfflTUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1404 4980">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1404 4980">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1404 4980; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1404 4980; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
